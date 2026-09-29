@@ -1,109 +1,72 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=ARTH%20MEHTA&fontSize=60&fontColor=7aa2f7&animation=fadeIn&stroke=7dcfff&strokeWidth=1" width="100%" alt="Header" />
+  <!-- 1. GLOWING HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,50:0a2540,100:071018&height=220&section=header&text=Arth%20Mehta&fontSize=50&fontColor=00f0ff&animation=twinkling&stroke=00f0ff&strokeWidth=1&desc=Building%20with%20JavaScript%20%26%20Software%20Engineering%20on%20GitHub&descSize=16&descAlignY=70&descColor=8b949e" width="100%" alt="Header" />
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://github.com/arthx404">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Developer;Web+Development+%7C+Software+Engineering;Building+Scalable+%26+Innovative+Tech;Welcome+to+my+digital+workspace!+%E2%9A%A1" alt="Typing Header" />
-  </a>
+  <br/><br/>
 
+  <!-- TECH BADGES -->
   <p align="center">
-    <a href="https://github.com/arthx404">
-      <img src="https://img.shields.io/github/followers/arthx404?style=for-the-badge&logo=github&color=7dcfff&labelColor=1a1b26" alt="Followers" />
-    </a>
-    <a href="https://github.com/arthx404">
-      <img src="https://komarev.com/ghpvc/?username=arthx404&label=Profile%20Views&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="Profile Views" />
-    </a>
+    <img src="https://img.shields.io/badge/JavaScript-090d16?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/CSS3-090d16?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/HTML5-090d16?style=for-the-badge&logo=html5&logoColor=E34F26" />
+    <img src="https://img.shields.io/badge/Python-090d16?style=for-the-badge&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/C%2B%2B-090d16?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      <p>Hello! I'm <b>Arth Mehta</b>, an Information Technology developer dedicated to crafting modern web applications and data-driven software solutions.</p>
-      <ul>
-        <li>🎓 <b>Focus:</b> Information Technology & Software Engineering</li>
-        <li>💡 <b>Interests:</b> Full-Stack Web Development, Database Architecture & Analytics</li>
-        <li>🎯 <b>Current Goal:</b> Developing high-performance projects & solving complex engineering problems</li>
-        <li>💬 <b>Core Skills:</b> JavaScript, C++, SQL, Web Development & Analytics</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/effectivelight/effectivelight/main/assets/coding.gif" width="220px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Skillset
+### 💻 System Specifications & Stats
 
 <div align="center">
 
-#### 💻 Programming Languages & Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python" alt="Languages" />
+  <!-- 2. TERMINAL STATS CARD WITH NEON BORDER -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arthx404&show_icons=true&bg_color=090d16&border_color=00f0ff&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=false&count_private=true" width="100%" alt="Terminal Stats" />
 
-<br/>
+</div>
 
-#### 🗄️ Databases & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+---
+
+### 📁 Projects List
+
+<p align="center">
+  <a href="https://github.com/arthx404/arthx404">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthx404&repo=arthx404&bg_color=090d16&border_color=00f0ff&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&show_owner=false" width="48%" />
+  </a>
+  <a href="https://github.com/arthx404/PBC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthx404&repo=PBC&bg_color=090d16&border_color=00f0ff&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&show_owner=false" width="48%" />
+  </a>
 </p>
 
-#### 🔧 Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+---
+
+### ⚡ Language Stack
+
+<div align="center">
+
+  <!-- 4. LANGUAGE BREAKDOWN WITH NEON BORDER -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthx404&layout=compact&bg_color=090d16&border_color=00f0ff&title_color=00f0ff&text_color=c9d1d9&hide_border=false" width="100%" alt="Language Stack" />
 
 </div>
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :---: | :---: |
-| 🌐 **Portfolio Site** | Modern personal showcase with responsive interactive UI | `HTML` `CSS` `JS` | 🚀 Live |
-| 📊 **Analytics Dashboard** | Data dashboard transforming complex spreadsheets into decisions | `Power BI` `SQL` | ⚡ Active |
-| 📁 **Core Project** | Scalable application engineered for performance | `C++` `DBMS` | 🛠️ In Progress |
-
----
-
-### 📈 GitHub Metrics & Statistics
+### 📊 Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arthx404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthx404&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=arthx404&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+  <!-- 5. STREAK MATRIX WITH NEON BORDER -->
+  <img src="https://streak-stats.demolab.com/?user=arthx404&bg_color=090d16&border_color=00f0ff&title_color=00f0ff&text_color=c9d1d9&sideNums=00f0ff&sideTitle=00f0ff&fire=00f0ff&currStreakNum=00f0ff&dates=8b949e&hide_border=false" width="100%" alt="Contribution Activity" />
 
 </div>
 
 ---
 
-### 🌐 Let's Connect
-
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/arthmehta-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/arthmehta15" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/arthx404" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-  <i>"Clean code always looks like it was written by someone who cares."</i>
+  <!-- FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,50:0a2540,100:071018&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
