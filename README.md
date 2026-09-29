@@ -5,7 +5,7 @@
 
 <!-- Typing Animation SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&height=70&lines=✨+Welcome+to+my+Interactive+GitHub+Profile!;🚀+Passionate+about+Building+Practical+%26+Innovative+Tech;💻+Web+Development+%7C+Software+Engineering+%7C+Analytics" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Building+Tech+Solutions;Web+Dev+%7C+Software+Engineering+%7C+Analytics" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -16,15 +16,15 @@
 
 ---
 
-### 🧠 Know About Me[cite: 1]
+### 🧠 Know About Me
 
 <p align="left">
   <img align="right" src="https://raw.githubusercontent.com/effectivelight/effectivelight/main/assets/coding.gif" width="280" alt="Animated Coding GIF" />
 
-  - 🎓 **Student & Developer:** Information Technology student passionate about building practical and innovative tech solutions[cite: 1].
-  - 🛠️ **Core Interests:** Web Development, Software Engineering, Database Management Systems, & Data Analytics[cite: 1].
-  - 🚀 **Focus:** Learning new technologies, building real-world projects, and refining technical skills continuously[cite: 1].
-  - ⚡ **Motto:** *"Every project starts messy. It only gets good if you keep pushing commits."*[cite: 2]
+  - 🎓 **Student & Developer:** Information Technology student passionate about building practical and innovative tech solutions.
+  - 🛠️ **Core Interests:** Web Development, Software Engineering, Database Management Systems, & Data Analytics.
+  - 🚀 **Focus:** Learning new technologies, building real-world projects, and refining technical skills continuously.
+  - ⚡ **Motto:** *"Every project starts messy. It only gets good if you keep pushing commits."*
 </p>
 
 <br />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools[cite: 2]
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,mysql,mongodb,py,git,github,vscode" alt="Animated Skill Icons" />
@@ -49,17 +49,17 @@
 
 ---
 
-### 🚀 Top Projects *(built to learn, not just to look pretty)*[cite: 2]
+### 🚀 Top Projects *(built to learn, not just to look pretty)*
 
 | Type | Project | Description | Link |
 | :---: | :--- | :--- | :---: |
-| 📁 | **PROJECT-ONE** | One-line description — swap in your real repo name and pitch[cite: 2]. | [View Repo](https://github.com/arthx404) |
-| 📊 | **DATA-DASHBOARD** | Power BI dashboard that turns raw spreadsheets into decisions[cite: 2]. | [View Repo](https://github.com/YOUR_GITHUB_USERNAME) |
-| 🌐 | **PORTFOLIO-SITE** | Personal site built with HTML, CSS & JS — because everyone needs one[cite: 2]. | [View Repo](https://github.com/YOUR_GITHUB_USERNAME) |
+| 📁 | **PROJECT-ONE** | One-line description — swap in your real repo name and pitch. | [View Repo](https://github.com/arthx404) |
+| 📊 | **DATA-DASHBOARD** | Power BI dashboard that turns raw spreadsheets into decisions. | [View Repo](https://github.com/arthx404) |
+| 🌐 | **PORTFOLIO-SITE** | Personal site built with HTML, CSS & JS — because everyone needs one. | [View Repo](https://github.com/arthx404) |
 
 ---
 
-### 🌐 Connect With Me[cite: 2]
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthmehta-/" target="_blank">
@@ -67,15 +67,6 @@
   </a>
   <a href="https://instagram.com/arthmehta15" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/arthmehta15" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://wa.me/+919167520300" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:arthmehta93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -89,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution Streak Graph" />[cite: 3]
+  <img src="https://streak-stats.demolab.com/?user=arthx404&theme=tokyonight&hide_border=true" alt="Contribution Streak Graph" />
 </p>
 
 <!-- Animated Footer Wave -->
@@ -98,5 +89,5 @@
 </p>
 
 <p align="center">
-  ⭐ <em>Thanks for stopping by — go star a repo before you leave!</em>[cite: 3]
+  ⭐ <em>Thanks for stopping by — go star a repo before you leave!</em>
 </p>
